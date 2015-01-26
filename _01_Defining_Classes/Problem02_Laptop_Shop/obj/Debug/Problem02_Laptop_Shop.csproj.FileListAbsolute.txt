@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem02_Laptop_Shop\bin\Debug\Problem02_Laptop_Shop.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem02_Laptop_Shop\bin\Debug\Problem02_Laptop_Shop.exe
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem02_Laptop_Shop\bin\Debug\Problem02_Laptop_Shop.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem02_Laptop_Shop\obj\Debug\Problem02_Laptop_Shop.exe
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem02_Laptop_Shop\obj\Debug\Problem02_Laptop_Shop.pdb

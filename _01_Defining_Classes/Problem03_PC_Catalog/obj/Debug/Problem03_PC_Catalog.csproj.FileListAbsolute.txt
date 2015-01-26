@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem03_PC_Catalog\bin\Debug\Problem03_PC_Catalog.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem03_PC_Catalog\obj\Debug\Problem03_PC_Catalog.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem03_PC_Catalog\bin\Debug\Problem03_PC_Catalog.exe
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem03_PC_Catalog\bin\Debug\Problem03_PC_Catalog.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem03_PC_Catalog\obj\Debug\Problem03_PC_Catalog.exe
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem03_PC_Catalog\obj\Debug\Problem03_PC_Catalog.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_01_Defining_Classes\Problem04_Learning_System\bin\Debug\Problem04_Learning_System.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_01_Defining_Classes\Problem04_Learning_System\bin\Debug\Problem04_Learning_System.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_01_Defining_Classes\Problem04_Learning_System\bin\Debug\Problem04_Learning_System.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_01_Defining_Classes\Problem04_Learning_System\obj\Debug\Problem04_Learning_System.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_01_Defining_Classes\Problem04_Learning_System\obj\Debug\Problem04_Learning_System.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_01_Defining_Classes\Problem04_Learning_System\obj\Debug\Problem04_Learning_System.pdb

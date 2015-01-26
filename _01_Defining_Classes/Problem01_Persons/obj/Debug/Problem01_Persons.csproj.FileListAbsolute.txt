@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem01_Persons\bin\Debug\Problem01_Persons.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem01_Persons\obj\Debug\Problem01_Persons.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem01_Persons\bin\Debug\Problem01_Persons.exe
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem01_Persons\bin\Debug\Problem01_Persons.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem01_Persons\obj\Debug\Problem01_Persons.exe
+c:\users\asus\documents\visual studio 2013\Projects\_01_Defining_Classes\Problem01_Persons\obj\Debug\Problem01_Persons.pdb
