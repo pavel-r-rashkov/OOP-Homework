@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem04_HTML_Dispatcher\bin\Debug\Problem04_HTML_Dispatcher.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem04_HTML_Dispatcher\bin\Debug\Problem04_HTML_Dispatcher.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem04_HTML_Dispatcher\bin\Debug\Problem04_HTML_Dispatcher.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem04_HTML_Dispatcher\obj\Debug\Problem04_HTML_Dispatcher.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem04_HTML_Dispatcher\obj\Debug\Problem04_HTML_Dispatcher.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem04_HTML_Dispatcher\obj\Debug\Problem04_HTML_Dispatcher.pdb

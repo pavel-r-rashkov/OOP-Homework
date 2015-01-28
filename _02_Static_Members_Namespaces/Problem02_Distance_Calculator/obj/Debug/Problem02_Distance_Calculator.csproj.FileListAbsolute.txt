@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\bin\Debug\Problem02_Distance_Calculator.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\obj\Debug\Problem02_Distance_Calculator.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\bin\Debug\Problem02_Distance_Calculator.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\bin\Debug\Problem02_Distance_Calculator.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\bin\Debug\Problem01_Point3D.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\bin\Debug\Problem01_Point3D.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\obj\Debug\Problem02_Distance_Calculator.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem02_Distance_Calculator\obj\Debug\Problem02_Distance_Calculator.pdb

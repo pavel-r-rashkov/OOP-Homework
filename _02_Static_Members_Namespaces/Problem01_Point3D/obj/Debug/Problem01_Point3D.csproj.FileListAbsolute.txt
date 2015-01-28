@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem01_Point3D\bin\Debug\Problem01_Point3D.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem01_Point3D\bin\Debug\Problem01_Point3D.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem01_Point3D\bin\Debug\Problem01_Point3D.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem01_Point3D\obj\Debug\Problem01_Point3D.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem01_Point3D\obj\Debug\Problem01_Point3D.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem01_Point3D\obj\Debug\Problem01_Point3D.pdb

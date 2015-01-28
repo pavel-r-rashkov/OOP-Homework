@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem05_BitArray\bin\Debug\Problem05_BitArray.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.exe
+c:\users\asus\documents\visual studio 2013\Projects\_02_Static_Members_Namespaces\Problem05_BitArray\obj\Debug\Problem05_BitArray.pdb
