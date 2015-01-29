@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem01_Square_Root\bin\Debug\Problem01_Square_Root.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem01_Square_Root\bin\Debug\Problem01_Square_Root.exe
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem01_Square_Root\bin\Debug\Problem01_Square_Root.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem01_Square_Root\obj\Debug\Problem01_Square_Root.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem01_Square_Root\obj\Debug\Problem01_Square_Root.exe
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem01_Square_Root\obj\Debug\Problem01_Square_Root.pdb

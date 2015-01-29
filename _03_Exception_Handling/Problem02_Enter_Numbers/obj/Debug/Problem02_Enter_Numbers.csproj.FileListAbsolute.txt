@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem02_Enter_Numbers\bin\Debug\Problem02_Enter_Numbers.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem02_Enter_Numbers\obj\Debug\Problem02_Enter_Numbers.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem02_Enter_Numbers\bin\Debug\Problem02_Enter_Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem02_Enter_Numbers\bin\Debug\Problem02_Enter_Numbers.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem02_Enter_Numbers\obj\Debug\Problem02_Enter_Numbers.exe
+c:\users\asus\documents\visual studio 2013\Projects\_03_Exception_Handling\Problem02_Enter_Numbers\obj\Debug\Problem02_Enter_Numbers.pdb
