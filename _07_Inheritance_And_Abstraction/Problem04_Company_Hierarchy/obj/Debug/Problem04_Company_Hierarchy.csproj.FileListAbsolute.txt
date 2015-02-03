@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_07_Inheritance_And_Abstraction\Problem04_Company_Hierarchy\bin\Debug\Problem04_Company_Hierarchy.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_07_Inheritance_And_Abstraction\Problem04_Company_Hierarchy\bin\Debug\Problem04_Company_Hierarchy.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_07_Inheritance_And_Abstraction\Problem04_Company_Hierarchy\bin\Debug\Problem04_Company_Hierarchy.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_07_Inheritance_And_Abstraction\Problem04_Company_Hierarchy\obj\Debug\Problem04_Company_Hierarchy.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_07_Inheritance_And_Abstraction\Problem04_Company_Hierarchy\obj\Debug\Problem04_Company_Hierarchy.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_07_Inheritance_And_Abstraction\Problem04_Company_Hierarchy\obj\Debug\Problem04_Company_Hierarchy.pdb
