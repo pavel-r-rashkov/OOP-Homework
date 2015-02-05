@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_08_Encapsulation_And_Polymorphism\Problem01_Shapes\bin\Debug\Problem01_Shapes.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_08_Encapsulation_And_Polymorphism\Problem01_Shapes\obj\Debug\Problem01_Shapes.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_08_Encapsulation_And_Polymorphism\Problem01_Shapes\bin\Debug\Problem01_Shapes.exe
+c:\users\asus\documents\visual studio 2013\Projects\_08_Encapsulation_And_Polymorphism\Problem01_Shapes\bin\Debug\Problem01_Shapes.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_08_Encapsulation_And_Polymorphism\Problem01_Shapes\obj\Debug\Problem01_Shapes.exe
+c:\users\asus\documents\visual studio 2013\Projects\_08_Encapsulation_And_Polymorphism\Problem01_Shapes\obj\Debug\Problem01_Shapes.pdb
