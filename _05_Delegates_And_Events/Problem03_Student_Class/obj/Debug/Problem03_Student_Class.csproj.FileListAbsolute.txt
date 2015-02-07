@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_05_Delegates_And_Events\Problem03_Student_Class\bin\Debug\Problem03_Student_Class.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_05_Delegates_And_Events\Problem03_Student_Class\bin\Debug\Problem03_Student_Class.exe
+c:\users\asus\documents\visual studio 2013\Projects\_05_Delegates_And_Events\Problem03_Student_Class\bin\Debug\Problem03_Student_Class.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_05_Delegates_And_Events\Problem03_Student_Class\obj\Debug\Problem03_Student_Class.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_05_Delegates_And_Events\Problem03_Student_Class\obj\Debug\Problem03_Student_Class.exe
+c:\users\asus\documents\visual studio 2013\Projects\_05_Delegates_And_Events\Problem03_Student_Class\obj\Debug\Problem03_Student_Class.pdb

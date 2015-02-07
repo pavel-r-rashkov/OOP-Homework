@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01_Interest_Calculator", "Problem01_Interest_Calculator\Problem01_Interest_Calculator.csproj", "{0C254D8B-797D-4DB2-AB8D-865B7AF1FC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02_Asynchronous_Timer", "Problem02_Asynchronous_Timer\Problem02_Asynchronous_Timer.csproj", "{DD6008B3-6F78-4F38-A439-F76DCE8AE32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03_Student_Class", "Problem03_Student_Class\Problem03_Student_Class.csproj", "{37C1AE68-F330-40DF-ADDA-602F8BD7114E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C254D8B-797D-4DB2-AB8D-865B7AF1FC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C254D8B-797D-4DB2-AB8D-865B7AF1FC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C254D8B-797D-4DB2-AB8D-865B7AF1FC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C254D8B-797D-4DB2-AB8D-865B7AF1FC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6008B3-6F78-4F38-A439-F76DCE8AE32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6008B3-6F78-4F38-A439-F76DCE8AE32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6008B3-6F78-4F38-A439-F76DCE8AE32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6008B3-6F78-4F38-A439-F76DCE8AE32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C1AE68-F330-40DF-ADDA-602F8BD7114E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C1AE68-F330-40DF-ADDA-602F8BD7114E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C1AE68-F330-40DF-ADDA-602F8BD7114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C1AE68-F330-40DF-ADDA-602F8BD7114E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
