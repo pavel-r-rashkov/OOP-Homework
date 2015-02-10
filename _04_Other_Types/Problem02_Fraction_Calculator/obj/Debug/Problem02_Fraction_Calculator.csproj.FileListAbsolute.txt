@@ -1,0 +1,5 @@
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem02_Fraction_Calculator\bin\Debug\Problem02_Fraction_Calculator.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem02_Fraction_Calculator\bin\Debug\Problem02_Fraction_Calculator.exe
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem02_Fraction_Calculator\bin\Debug\Problem02_Fraction_Calculator.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem02_Fraction_Calculator\obj\Debug\Problem02_Fraction_Calculator.exe
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem02_Fraction_Calculator\obj\Debug\Problem02_Fraction_Calculator.pdb

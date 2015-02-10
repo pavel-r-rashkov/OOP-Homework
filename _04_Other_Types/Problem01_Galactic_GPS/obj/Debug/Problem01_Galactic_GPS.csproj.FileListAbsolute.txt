@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem01_Galactic_GPS\bin\Debug\Problem01_Galactic_GPS.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem01_Galactic_GPS\bin\Debug\Problem01_Galactic_GPS.exe
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem01_Galactic_GPS\bin\Debug\Problem01_Galactic_GPS.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem01_Galactic_GPS\obj\Debug\Problem01_Galactic_GPS.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem01_Galactic_GPS\obj\Debug\Problem01_Galactic_GPS.exe
+c:\users\asus\documents\visual studio 2013\Projects\_04_Other_Types\Problem01_Galactic_GPS\obj\Debug\Problem01_Galactic_GPS.pdb

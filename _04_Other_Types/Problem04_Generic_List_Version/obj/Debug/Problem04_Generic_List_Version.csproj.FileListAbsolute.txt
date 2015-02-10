@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_04_Other_Types\Problem04_Generic_List_Version\bin\Debug\Problem04_Generic_List_Version.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_04_Other_Types\Problem04_Generic_List_Version\bin\Debug\Problem04_Generic_List_Version.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_04_Other_Types\Problem04_Generic_List_Version\bin\Debug\Problem04_Generic_List_Version.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_04_Other_Types\Problem04_Generic_List_Version\obj\Debug\Problem04_Generic_List_Version.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_04_Other_Types\Problem04_Generic_List_Version\obj\Debug\Problem04_Generic_List_Version.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_04_Other_Types\Problem04_Generic_List_Version\obj\Debug\Problem04_Generic_List_Version.pdb
