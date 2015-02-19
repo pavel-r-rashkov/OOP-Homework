@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem01_StringBuilder_Extensions\bin\Debug\Problem01_StringBuilder_Extensions.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem01_StringBuilder_Extensions\bin\Debug\Problem01_StringBuilder_Extensions.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem01_StringBuilder_Extensions\bin\Debug\Problem01_StringBuilder_Extensions.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem01_StringBuilder_Extensions\obj\Debug\Problem01_StringBuilder_Extensions.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem01_StringBuilder_Extensions\obj\Debug\Problem01_StringBuilder_Extensions.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem01_StringBuilder_Extensions\obj\Debug\Problem01_StringBuilder_Extensions.pdb

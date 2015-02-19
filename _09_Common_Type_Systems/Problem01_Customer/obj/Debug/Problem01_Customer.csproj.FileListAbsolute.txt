@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_09_Common_Type_Systems\Problem01_Customer\bin\Debug\Problem01_Customer.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_09_Common_Type_Systems\Problem01_Customer\obj\Debug\Problem01_Customer.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_09_Common_Type_Systems\Problem01_Customer\bin\Debug\Problem01_Customer.exe
+c:\users\asus\documents\visual studio 2013\Projects\_09_Common_Type_Systems\Problem01_Customer\bin\Debug\Problem01_Customer.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_09_Common_Type_Systems\Problem01_Customer\obj\Debug\Problem01_Customer.exe
+c:\users\asus\documents\visual studio 2013\Projects\_09_Common_Type_Systems\Problem01_Customer\obj\Debug\Problem01_Customer.pdb

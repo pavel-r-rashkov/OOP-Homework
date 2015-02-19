@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\bin\Debug\Problem13_Students_By_Groups.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\bin\Debug\Problem13_Students_By_Groups.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\bin\Debug\Problem13_Students_By_Groups.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\bin\Debug\Problem03_Student.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\bin\Debug\Problem03_Student.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\obj\Debug\Problem13_Students_By_Groups.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\obj\Debug\Problem13_Students_By_Groups.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem13_Students_By_Groups\obj\Debug\Problem13_Students_By_Groups.pdb

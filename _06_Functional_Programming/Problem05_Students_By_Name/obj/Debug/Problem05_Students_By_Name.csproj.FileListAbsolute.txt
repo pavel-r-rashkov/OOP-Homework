@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\bin\Debug\Problem05_Students_By_Name.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\bin\Debug\Problem05_Students_By_Name.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\bin\Debug\Problem05_Students_By_Name.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\bin\Debug\Problem03_Student.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\bin\Debug\Problem03_Student.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\obj\Debug\Problem05_Students_By_Name.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\obj\Debug\Problem05_Students_By_Name.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem05_Students_By_Name\obj\Debug\Problem05_Students_By_Name.pdb

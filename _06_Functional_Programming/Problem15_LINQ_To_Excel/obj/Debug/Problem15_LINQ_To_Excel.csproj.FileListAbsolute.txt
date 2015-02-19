@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem15_LINQ_To_Excel\bin\Debug\Problem15_LINQ_To_Excel.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem15_LINQ_To_Excel\obj\Debug\Problem15_LINQ_To_Excel.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem15_LINQ_To_Excel\bin\Debug\Problem15_LINQ_To_Excel.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem15_LINQ_To_Excel\bin\Debug\Problem15_LINQ_To_Excel.pdb
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem15_LINQ_To_Excel\obj\Debug\Problem15_LINQ_To_Excel.exe
+c:\users\asus\documents\visual studio 2013\Projects\_06_Functional_Programming\Problem15_LINQ_To_Excel\obj\Debug\Problem15_LINQ_To_Excel.pdb

@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_06_Functional_Programming\Problem02_LINQ_Extensions\bin\Debug\Problem02_LINQ_Extensions.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_06_Functional_Programming\Problem02_LINQ_Extensions\bin\Debug\Problem02_LINQ_Extensions.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_06_Functional_Programming\Problem02_LINQ_Extensions\bin\Debug\Problem02_LINQ_Extensions.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_06_Functional_Programming\Problem02_LINQ_Extensions\obj\Debug\Problem02_LINQ_Extensions.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_06_Functional_Programming\Problem02_LINQ_Extensions\obj\Debug\Problem02_LINQ_Extensions.exe
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\_06_Functional_Programming\Problem02_LINQ_Extensions\obj\Debug\Problem02_LINQ_Extensions.pdb
